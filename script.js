@@ -1,6 +1,6 @@
 const searchMeal = async (e) => {
     // Prevent form from submitting and page refresh
-    // e.preventDefault();
+    e.preventDefault();
 
     const input = document.querySelector(".input");
     const title = document.querySelector(".title");

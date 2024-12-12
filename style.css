@@ -68,8 +68,8 @@ body{
             }
 
             button{
-                width: 15%;
-                padding: 8px 20px;
+                width: 50px;
+                padding: 8px;
                 border-radius: 10px;
             }
         }
