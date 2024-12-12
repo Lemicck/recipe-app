@@ -53,8 +53,8 @@ body{
         border-radius: 20px;
         gap: 100px;
         .img-content{
-                width: 200px;
-                height: 200px;
+                width: 600px;
+                height: 600px;
                 border-radius:50%;
                 object-fit: cover;
             }
