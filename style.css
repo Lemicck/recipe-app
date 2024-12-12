@@ -54,8 +54,8 @@ body{
         gap: 100px;
         .img-content{
                 width: 700px;
-                height: 500px;
-                border-radius:30%;
+                height: 700px;
+                border-radius:20%;
                 object-fit: cover;
             }
         .text-content{
